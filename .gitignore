@@ -1,0 +1,14 @@
+# figure artifacts
+*.png
+*.pdf
+*.svg
+
+# hand coded original data
+*.xlsx
+.~lock.*
+
+
+# Rproject files
+.Rhistory
+.Rproj.user/*
+
